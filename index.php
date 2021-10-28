@@ -77,7 +77,7 @@ $example = [
         }
 
         th{
-            background: orange;
+            background:orange;
         }
     </style>
 </head>
@@ -104,9 +104,9 @@ $example = [
     </ul>
 
     <table>
-        <tr style="background: red; color: white">
-            <td><b>PROGRAM</b></td>
-            <td><b>KELAYAKAN</b></td>
+        <tr style="background:orangered; color: white">
+            <td><b><center>PROGRAM</center></b></td>
+            <td><b><center>KELAYAKAN</center></b></td>
         </tr>
     <?php
     foreach ($example as $poli => $value){
